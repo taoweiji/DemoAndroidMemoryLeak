@@ -100,7 +100,5 @@ protected void onDestroy() {
  handler = null;
 }
 ```
+重新测试，确保问题已经解决。
 
-### 第七步：重新运行，重复测试
-
-重新运行测试，发现刚才出现内存泄露的Activity已经解决了

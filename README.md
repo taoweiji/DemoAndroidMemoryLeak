@@ -102,3 +102,5 @@ protected void onDestroy() {
 ```
 重新测试，确保问题已经解决。
 
+### 文章代码
+https://github.com/taoweiji/DemoAndroidMemoryLeak

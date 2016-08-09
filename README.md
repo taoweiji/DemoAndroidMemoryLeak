@@ -1,11 +1,4 @@
----
-title: "通过Android Studio、MAT进行Android内存泄露检测"
-date: 2016-08-08 21:31:51
-author:     "Wiki"
-tags:
-    - Android
----
-
+# 利用Android Studio、MAT对Android进行内存泄露检测
 Android开发中难免会遇到各种内存泄露，如果不及时发现处理，会导致出现内存越用越大，可能会因为内存泄露导致出现各种奇怪的crash，甚至可能出现因内存不足而导致APP崩溃。
 
 ### 内存泄露分析工具

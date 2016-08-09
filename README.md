@@ -1,5 +1,5 @@
 ---
-title: "通过Android Studio、MAT进行Android内存泄露检测及常见原因总结"
+title: "通过Android Studio、MAT进行Android内存泄露检测"
 date: 2016-08-08 21:31:51
 author:     "Wiki"
 tags:
